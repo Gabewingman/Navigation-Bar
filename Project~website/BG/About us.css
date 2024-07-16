@@ -79,9 +79,19 @@ body{
     text-align: center;
     border-style: solid;
     border-color: white;
+    border-radius: 10px;
 }
 
 u{
+    color: salmon;
+}
+
+.email {
+    text-decoration: none;
+    color: wheat;
+}
+
+.email:hover {
     color: salmon;
 }
 

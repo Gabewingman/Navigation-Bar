@@ -13,7 +13,7 @@ body{
 }
 
 .header{
-    position: sticky;
+    position: relative;
     top: 0;
     left: 0;
     width: 100%;
@@ -54,4 +54,18 @@ body{
 
 .navbar a:hover:before{
     width: 100%;
+}
+
+.Gallery {
+    position: sticky;
+    display: inline-block;
+    align-items: baseline;
+    padding: 20px;
+}
+
+.Gallery img {
+    border: 5px solid yellow;
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
 }
