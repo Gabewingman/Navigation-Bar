@@ -1,2 +1,3 @@
 # Navigation-Bar
-Create a simple Navigation Bar with other webpages
+
+Create a simple Navigation Bar with other webpages.
