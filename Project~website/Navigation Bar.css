@@ -58,7 +58,8 @@ header{
     width: 0;
     height: 2px;
     background: black;
-    transition: .3s;
+    transition: ease-in-out;
+    transition-duration: .5s;
 }
 
 .navbar a:hover:before{

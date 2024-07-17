@@ -7,7 +7,7 @@
 
 body{
     min-height: 100vh;
-    background:url("contact.png") no-repeat;
+    background:url("BG/contact.png") no-repeat;
     background-size: cover;
     background-position: center;
     font-family: Verdana;
@@ -51,7 +51,8 @@ body{
     width: 0;
     height: 2px;
     background: black;
-    transition: .3s;
+    transition: ease-in-out;
+    transition-duration: .5s;
 }
 
 .navbar a:hover:before{
