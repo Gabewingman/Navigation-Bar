@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Verdana;
 }
 
 body{
@@ -10,7 +9,6 @@ body{
     background:url("BG/contact.png") no-repeat;
     background-size: cover;
     background-position: center;
-    font-family: Verdana;
 }
 
 
@@ -41,6 +39,7 @@ body{
     font-weight: 500px;
     text-decoration: none;
     margin-left: 40px;
+    font-family: Verdana;
 }
 
 .navbar a::before{
@@ -81,9 +80,24 @@ body{
     border-style: solid;
     border-color: white;
     border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
-u{
+.nameInfo {
+    text-decoration: none;
+    color: white;
+}
+
+.nameInfo:hover {
+    color: salmon;
+}
+
+.nameSkills {
+    text-decoration: none;
+    color: white;
+}
+
+.nameSkills:hover {
     color: salmon;
 }
 
