@@ -7,7 +7,7 @@
 
 body {
     min-height: 20vh;
-    background: url("train.png") no-repeat center;
+    background: url("BG/train.png") no-repeat center;
     display: flex;
     flex-direction: column;
     justify-content: center;
