@@ -1,0 +1,13 @@
+
+.Gallery a {
+    display: inline-flex;
+    padding: 20px;
+}
+
+.Gallery {
+    margin-left: 250px;
+}
+
+.Gallery img:hover {
+    box-shadow: 0 0 10px white;
+}

@@ -1,8 +1,9 @@
-
 export default function Home() {
-    return (
-        <div>
-            <h1>Home</h1>
-        </div>
-    )
+  return (
+    <div>
+      <a class="BigQuotedIt" href="About us.html">
+        <h1>Quoted It</h1>
+      </a>
+    </div>
+  );
 }
